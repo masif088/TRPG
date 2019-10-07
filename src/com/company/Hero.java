@@ -7,7 +7,7 @@ public class Hero {
         hp=10;
         maxHp=hp;
         atk=2;
-        money=0;
+        money=100;
     }
 
     public int getHp() {
